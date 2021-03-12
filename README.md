@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jasperwieringa
+- 👀 I’m interested in Front-End web development.
+- 🌱 I’m currently learning something new about web-components every day.
+- 💞️ I’m looking to collaborate on as many cool projects as possible.
+- 📫 You can reach out to me on jasperwieringa@gmail.com
